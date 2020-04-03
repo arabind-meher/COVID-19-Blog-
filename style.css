@@ -1,0 +1,37 @@
+head {
+    background-color: aquamarine;
+}
+body {
+    background-image: linear-gradient(#ffccff, #ffffcc);
+}
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2 {
+    color: black;
+    text-align: left;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3 {
+    color: black;
+    text-align: left;
+    font-size: 25;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img {
+    height: 300px;
+    width: 600px;
+}
+p {
+    text-align: justify;
+    font-size: 20px;
+    font-family: serif;
+}
+ul {
+    font-size: 20px;
+    font-family: serif;
+}
